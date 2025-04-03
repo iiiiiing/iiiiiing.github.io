@@ -2,31 +2,29 @@
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" 
 
-http://168.138.160.251:50001/5000000010000017540/bestzb/index.m3u8
+http://108.181.20.197/livehttpplay?channel_id=20060
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" 
 
-http://154.37.220.151:50001/5000000010000017540/bestzb/index.m3u8
+
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" 
 
-http://154.37.220.151:50001/5000000010000017540/bestzb/index.m3u8
+
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" 
 
-http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" 
 
-http://129.154.51.238:50001/TVOD/5000000010000017540/bestzb/index.m3u8
+
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
 
-http://129.154.51.238:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
+
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
 
-http://129.154.51.238:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
 
@@ -34,12 +32,10 @@ http://108.181.21.27:27347/livehttpplay?channel_id=20060
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
 
-http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
 
-http://213.210.4.41:50001/TVOD/5000000010000017540/bestzb/index.m3u8
+
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
 
-http://115.132.201.25:8080/TVOD/5000000010000017540/bestzb/index.m3u8
