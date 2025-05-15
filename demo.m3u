@@ -10,33 +10,16 @@ http://222.65.234.44:4022/udp/239.45.3.210:5140
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" 
 
-http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
+http://116.231.86.249:4022/udp/239.45.3.210:5140
 
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" 
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" 
 
-http://108.181.20.197/livehttpplay?channel_id=20060
+https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
 
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" 
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" 
 
-http://218.78.182.69:9901/tsfile/live/1010_1.m3u8
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" 
 
-http://222.67.29.26:1688/udp/239.45.3.210:5140
-
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
-
-
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
-
-http://108.181.21.27:27347/livehttpplay?channel_id=20060
-
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
-
-
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
-
-http://129.150.58.101:50001/TVOD/5000000010000017540/bestzb/index.m3u8
-
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png"
-
+http://120.76.248.139/live/bfgd/4200000086.m3u8
